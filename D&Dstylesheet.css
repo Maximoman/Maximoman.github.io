@@ -1,3 +1,5 @@
-h1 { color: red; }
+h1 { color: green; }
 	p { color: purple; }
+	h3 { color: red; }
+	h4 { color: red; }
 body { font-family: Times New Roman; text-align: center;}
