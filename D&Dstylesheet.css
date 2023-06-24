@@ -1,10 +1,12 @@
-h1 { color: green; }
-	p { color: purple; padding: 0px 300px;}
-	h3 { color: red; }
+h1 { color: green; Font: Algerian; }
+	p { color: purple; padding: 0px 300px; }
+	h3 { color: red; Font: Algerian; }
 	h4 { color: red; }
 body { font-family: Times New Roman; text-align: center;}
 nav ul{ list-style-type: none; }
   nav li {
     display: inline;
     text-align: right;
-  padding: 2.5em; }
+  padding: 2.5em; 
+  Text-decoration: none;
+  }
