@@ -3,13 +3,14 @@ h1 { color: green; Font: Algerian; }
 	h3 { color: red; Font: Algerian; }
 	h4 { color: red; }
 body { font-family: Times New Roman; text-align: center;}
-nav ul{ list-style-type: none; }
+nav ul{ list-style-type: none;
+  Text-decoration: none;
+    color: black; }
   nav li {
     display: inline;
     text-align: right;
   padding: 2.5em; 
   Text-decoration: none;
     color: black;
-    text-decoration: none;
 	{ background-image: url('Purple Grid.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; }
 }
