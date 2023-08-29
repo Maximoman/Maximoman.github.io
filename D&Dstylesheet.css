@@ -6,23 +6,11 @@ body { font-family: Times New Roman; text-align: center;}
 nav ul{ list-style-type: none;
   Text-decoration: none;
     color: green; }
-	ul {
-  border: 1px solid #555;
-}
-
-li {
-  text-align: center;
-  border-bottom: 1px solid #555;
-}
-
-li:last-child {
-  border-bottom: none;
-}
   nav li {
     display: inline;
     text-align: right;
   padding: 2.5em; 
   Text-decoration: none;
     color: green;
-	{ background-image: url('Purple Grid.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; }
+	 background-image: url('Purple Grid.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; }
 }
