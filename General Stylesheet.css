@@ -1,0 +1,12 @@
+body { font-family: Times New Roman; text-align: center;}
+nav ul{ list-style-type: none;
+  Text-decoration: none; border: none;
+color: Black; }
+  nav li {
+    display: inline;
+    text-align: right;
+  padding: 2.5em; 
+  Text-decoration: none;
+    color: Black;
+border:none;
+}
